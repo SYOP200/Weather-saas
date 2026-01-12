@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "Weather Pro",
+    "slug": "weather-pro",
+    "ios": { "bundleIdentifier": "com.weather.pro" },
+    "android": { "package": "com.weather.pro" }
+  }
+}
+
