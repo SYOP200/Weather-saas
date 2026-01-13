@@ -100,7 +100,21 @@ weather-saas/
 ├── docker-compose.yml
 └── README.md
 ```
+## Documentation overview
 
+```
+apps/
+  └── README.md
+infra/
+  └── README.md
+packages/
+  └── README.md
+docs/
+  ├── GUI_WALKTHROUGH.md
+  ├── ADMIN_GUIDE.md
+  ├── API_REFERENCE.md
+  └── CUSTOMIZATION_AND_USAGE.md
+```
 ---
 
 ## 🛠 Installation Guide
